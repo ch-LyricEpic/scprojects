@@ -1,2 +1,1 @@
-# MeLodic Studio    
-OFFICIAL WEBSITE.
+LyricEpic's Scratch Project.
